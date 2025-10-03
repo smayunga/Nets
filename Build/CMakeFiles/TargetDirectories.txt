@@ -1,0 +1,2 @@
+/home/guru42/Documents/omega/Nets/Build/CMakeFiles/edit_cache.dir
+/home/guru42/Documents/omega/Nets/Build/CMakeFiles/rebuild_cache.dir
