@@ -22,7 +22,7 @@ Em breve será disponibilizado um guia de instalação, exemplos de configuraç�
 
 ## Licença
 
-Este projeto está sob a licença MIT.
+Este projeto está sob a licença ** MIT license **.
 
 ---
 
