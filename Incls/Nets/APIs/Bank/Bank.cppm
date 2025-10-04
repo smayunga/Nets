@@ -2,12 +2,12 @@
 ** Copyright® 2025 VISU LTDA. All Right Reserved!
 **      Author@ Simão A.Mayunga
 **
-**  Module:[UI.cppm]
+**  Module:[Bank.cppm]
 **        
 */
-export module UI;
+export module Bank;
 #if defined (__unix__) && defined (_POSIX_VERSION)
-////...
+///...
 #elif defined (_WIN32)
 ///...
 #else
@@ -15,7 +15,7 @@ export module UI;
 #endif
 export namespace Nets
 {
-  namespace UI
+  namespace Bank
   {
     
   }

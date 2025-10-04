@@ -7,10 +7,8 @@
 */
 export module NN;
 #if defined (__unix__) && defined (_POSIX_VERSION)
-# include <sys/types.h>
-///...
+////...
 #elif defined (_WIN32)
-# include <windows.h>
 ///...
 #else
 
