@@ -54,10 +54,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/guru42/Documents/omega/Nets
+CMAKE_SOURCE_DIR = /home/guru42/Documents/Nets
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/guru42/Documents/omega/Nets/Build
+CMAKE_BINARY_DIR = /home/guru42/Documents/Nets/Build
 
 #=============================================================================
 # Directory level rules for the build root directory

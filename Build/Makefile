@@ -57,10 +57,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/guru42/Documents/omega/Nets
+CMAKE_SOURCE_DIR = /home/guru42/Documents/Nets
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/guru42/Documents/omega/Nets/Build
+CMAKE_BINARY_DIR = /home/guru42/Documents/Nets/Build
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -87,16 +87,16 @@ rebuild_cache/fast: rebuild_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/guru42/Documents/omega/Nets/Build/CMakeFiles /home/guru42/Documents/omega/Nets/Build//CMakeFiles/progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/guru42/Documents/Nets/Build/CMakeFiles /home/guru42/Documents/Nets/Build//CMakeFiles/progress.marks
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/guru42/Documents/omega/Nets/Build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/guru42/Documents/Nets/Build/CMakeFiles 0
 .PHONY : all
 
 # The main codegen target
 codegen: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/guru42/Documents/omega/Nets/Build/CMakeFiles /home/guru42/Documents/omega/Nets/Build//CMakeFiles/progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/guru42/Documents/Nets/Build/CMakeFiles /home/guru42/Documents/Nets/Build//CMakeFiles/progress.marks
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 codegen
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/guru42/Documents/omega/Nets/Build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/guru42/Documents/Nets/Build/CMakeFiles 0
 .PHONY : codegen
 
 # The main clean target
