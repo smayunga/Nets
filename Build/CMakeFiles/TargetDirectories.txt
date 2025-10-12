@@ -1,2 +1,0 @@
-/home/guru42/Documents/Nets/Build/CMakeFiles/edit_cache.dir
-/home/guru42/Documents/Nets/Build/CMakeFiles/rebuild_cache.dir
